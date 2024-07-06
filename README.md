@@ -389,35 +389,3 @@ Our journey into the world of mushroom classification through this project has r
 There are several avenues we could explore differently in future iterations. Diversifying the range of machine learning models could uncover more nuanced insights or improve prediction accuracy. A deeper preliminary analysis of the dataset, focusing on enhanced feature selection and engineering, could reveal more about the underlying patterns and relationships within the data. Expanding the dataset, either through the inclusion of more samples or by integrating additional features, could further enrich the models' learning environment, offering a wider foundation for predictions. 
 
 In essence, this project has not only contributed valuable insights into the intersection of mycology and data science but has also illuminated a possible path for similar endeavors. It demonstrates how machine learning can bridge the gap between datasets and tangible, real-world applications. This offers a glimpse into the potential for future research to further unravel the complexities of the natural world. Our experiences and findings lay a foundation for continued exploration, pushing the boundaries of what's possible when science and technology converge in pursuit of knowledge.
-
-### Collaboration
-- Arnav Kamra:
-  
-       1. Helped on inital ipynb notebook and Github repository creation.
-  
-       2. Helped on generating project idea/proposal
-  
-       3. Checking bugs and writeup for EDA/preprocessing
-  
-       4. KNN Model/Model Visualizations
-  
-       5. Github management (pull requests, file management, etc.)
-  
-- Vishwak Pabba:
-  
-       1. Team leader: In charge of coordinating and making sure deadlines were met
-  
-       2. Performed data exploration and performed SMOTE oversampling on the skewed output classes.
-  
-       3. Analyzed and explained the importance of the various models in the write-up.
-  
-       4. Edited and debugged model code
-  
-- Emily Better: worked on: EDA, feedback, write-ups and formatting
-- Manav Jairam: Worked on debugging the models and data preprocessing, also did hyperparameter testing on the KNN model. Asisted with the writeup.
-- Daniel Carrascoza: KNN model, created data visualizations, and helped with data preprocessing (oversampling).
-- Kavi Nelakonda: Write-ups, explaining visuals
-- Kevin Wong: Worked on the logisitic regression model, writeup, and data preprocessing.
-- Steven Luong: Preprocessing/Random Forest Tree visuals and explanations/Formatting
-- Neil Sharma: Wrote the Random Forest classifier, including hyperparameter tuning, and the data preprocessing. Also worked on the writeup.
-- Rishabh Kalyanakumar: Worked on daata preprocessing and KNN model.
