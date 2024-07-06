@@ -1,4 +1,4 @@
-# CSE151A Mushroom Analysis Project 
+# Mushroom Analysis Project 
 ### Introduction 
 The choice to focus on mushroom analysis in this project stems from a blend of biology, data science, and biodiversity conservation. Mushrooms, with their diverse species, some edible and others potentially lethal, present a unique challenge in terms of classification and identification. The ability to accurately predict a mushroom's habitat based off its various features can be instrumental in developing a broader understanding of how the environment can affect how mushrooms developed, and where they can considered to be edible or inedible.
 
